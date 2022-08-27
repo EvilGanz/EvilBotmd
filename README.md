@@ -1,2 +1,0 @@
-# EvilBotmd
-Script
